@@ -1,0 +1,9 @@
+{
+    "name": "bobeeq/sqlite",
+    "description": "\\",
+    "autoload": {
+        "psr-4": {
+            "bobeeq\\sqlite\\": "src/bobeeq/sqlite"
+        }
+    }
+}
